@@ -13,9 +13,9 @@ export default {
       },
     },
     fontFamily:{
-      'Milonga': 'milonga',
-      'Oufit':'oufit',
-      'Roboto': 'roboto',
+      'Milonga': 'Milonga',
+      'Outfit':'Outfit',
+      'Roboto': 'Roboto',
       'Poetsen_One': '"Poetsen One"',
     }
   },
