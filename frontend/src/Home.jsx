@@ -16,7 +16,7 @@ const Home = () => {
               exercitationem et perspiciatis. Numquam est, voluptatem natus
               saepe ipsam iusto voluptatibus voluptate animi.
             </p>
-            <button className="mt-7 px-5 h-10 w-max bg-teal-500 font-Poetsen_One rounded-[30px] text-xl">
+            <button className="mt-7 px-5 h-10 w-max bg-teal-500 font-Poetsen_One rounded-[30px] text-xl le tracking-wide">
               Get Started
             </button>
           </div>
