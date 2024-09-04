@@ -1,6 +1,5 @@
 import NavBar from "./components/NavBar";
 import Tree from "./components/Tree";
-import './Home.css';
 
 const Home = () => {
   return (
