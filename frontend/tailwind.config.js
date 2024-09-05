@@ -13,6 +13,9 @@ export default {
         'radial-grad': 'radial-gradient(circle at center, #FFFFFF, #FAD0C4)',
       },
     },
+    rotate:{
+      '115': '115deg',
+    },
     fontFamily:{
       'Milonga': 'Milonga',
       'Outfit':'Outfit',

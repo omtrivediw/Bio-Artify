@@ -25,9 +25,6 @@ const Home = () => {
           <Tree />
           </div>
         </div>
-        {/* <div className='flex flex-col items-end'></div> */}
-        {/* <div className='flex bg-radial-grad h-48 w-96 justify-self-end'>
-      </div> */}
       <div>
 
       </div>
