@@ -1,0 +1,7 @@
+transformerenv/
+opus_books_weights/
+runs/
+myenv/
+animefacedataset/
+data/
+cifar10.tgz
